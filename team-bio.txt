@@ -1,3 +1,5 @@
 First push from author
 
 first task commit
+Im from Riga, Latvia.
+I believe that bootcamp will give good practical foundation.
